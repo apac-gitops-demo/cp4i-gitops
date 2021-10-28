@@ -82,7 +82,7 @@ patches:
   patch: |-
     - op: add
       path: /spec/source/repoURL
-      value: https://github.com/apac-gitops-demo/cp4i-gitops-services
+      value: https://github.com/apac-gitops-demo/cp4i-gitops-services.git
     - op: add
       path: /spec/source/targetRevision
       value: master
